@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+}
+
+#instructbutton{
+    float: right;
+    background-color: blue;
+    margin-top: 0;
+}
+
+#heading1{
+    font-size: 28px;
+    background-color: rgb(255, 64, 64);
+    margin-top: 0%;
+    margin-bottom: 25px;
+}
